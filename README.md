@@ -36,10 +36,6 @@ Evaluation: F1 Score on Kaggle Notebook submissions.
 Dataset: Movie-review pairs including title, description, genres, director, actors, ratings, and review text.  
 Objective: Build ML models to predict **sentiment of review text**.
 
----
 
-## 🚀 How to Explore
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/My_ML_DL_Projects.git
-cd My_ML_DL_Projects
+
+
